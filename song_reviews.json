@@ -2,51 +2,71 @@
   "成都 - 赵雷": {
     "name": "成都",
     "artist": "赵雷",
-    "background": "",
+    "background": "暂无详细背景资料",
     "impact": "",
     "musicalFeatures": [],
-    "reviews": [],
-    "lyricHighlights": [],
+    "reviews": [
+      "暂无乐评"
+    ],
+    "lyricHighlights": [
+      "暂无歌词片段"
+    ],
     "source": []
   },
   "安和桥 - 宋冬野": {
     "name": "安和桥",
     "artist": "宋冬野",
-    "background": "",
+    "background": "暂无详细背景资料",
     "impact": "",
     "musicalFeatures": [],
-    "reviews": [],
-    "lyricHighlights": [],
+    "reviews": [
+      "暂无乐评"
+    ],
+    "lyricHighlights": [
+      "暂无歌词片段"
+    ],
     "source": []
   },
   "海阔天空 - Beyond": {
     "name": "海阔天空",
     "artist": "Beyond",
-    "background": "",
+    "background": "暂无详细背景资料",
     "impact": "",
     "musicalFeatures": [],
-    "reviews": [],
-    "lyricHighlights": [],
+    "reviews": [
+      "暂无乐评"
+    ],
+    "lyricHighlights": [
+      "暂无歌词片段"
+    ],
     "source": []
   },
   "恭喜恭喜 - 姚莉/姚敏": {
     "name": "恭喜恭喜",
     "artist": "姚莉/姚敏",
-    "background": "",
+    "background": "暂无详细背景资料",
     "impact": "",
     "musicalFeatures": [],
-    "reviews": [],
-    "lyricHighlights": [],
+    "reviews": [
+      "暂无乐评"
+    ],
+    "lyricHighlights": [
+      "暂无歌词片段"
+    ],
     "source": []
   },
   "信仰 - 廖昌永": {
     "name": "信仰",
     "artist": "廖昌永",
-    "background": "",
+    "background": "暂无详细背景资料",
     "impact": "",
     "musicalFeatures": [],
-    "reviews": [],
-    "lyricHighlights": [],
+    "reviews": [
+      "暂无乐评"
+    ],
+    "lyricHighlights": [
+      "暂无歌词片段"
+    ],
     "source": []
   }
 }
